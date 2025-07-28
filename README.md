@@ -1,0 +1,2 @@
+# sharp-quizzer
+C# Quiz Game – An interactive quiz application built in C# that helps users learn and practice the C# programming language in an engaging way. It features questions across different difficulty levels, covering language syntax, object-oriented programming, exceptions, LINQ, memory management, and other core concepts. Ideal for learning, self-assessment, or building interview preparation tools.
